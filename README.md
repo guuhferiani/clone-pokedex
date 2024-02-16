@@ -1,4 +1,4 @@
-# clone-pokedex
+# Pokedex
 ##
 
 <img src="pokedex.png">
