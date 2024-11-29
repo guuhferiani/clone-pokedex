@@ -1,6 +1,6 @@
 # Pokedex
 
-![Descrição da Imagem](https://github.com/guuhferiani/pokedex/blob/main/pokedex.PNG)
+<img src="https://raw.githubusercontent.com/guuhferiani/pokedex/main/pokedex.PNG" alt="Descrição da Imagem" width="600">
 
 
 Projeto com HTML e CSS e JavaScript de uma Pokédex de POKEMON! Contém os pokemons até a 5º Geração e é interativa.
