@@ -1,4 +1,4 @@
-# Pokedex-Repository
+# Pokedex
 
 Projeto com HTML e CSS e JavaScript de uma Pokédex de POKEMON! Contém os pokemons até a 5º Geração e é interativa.
 
